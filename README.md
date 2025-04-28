@@ -1,7 +1,7 @@
 # my-ecomerce-site
 web-technology
 
-# Workout TEmplate
+# Workout Template
 # Description
 - One Page Layout
 - Responsive Web Design
